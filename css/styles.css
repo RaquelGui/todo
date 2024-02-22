@@ -83,11 +83,11 @@ select {
     font-weight: bold;
 }
 
-#form.control {
+.form-control {
     display: flex;
 }
 
-#form-control input {
+.form-control input {
     margin-right: 0.3rem;
 }
 
